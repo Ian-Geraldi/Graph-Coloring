@@ -1,0 +1,281 @@
+------------------------------------------------------
+> Experiment started at 2024-10-30T09:08:34.723
+> Instance: instances/jean.col
+> Configuration: config1.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.2
+>  - num_elite_parents 2
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 298329
+> Stop rule: TARGET
+> Stop argument: 0.0
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[09:08:34.841] Reading graph data...
+Number of vertices: 80
+
+[09:08:34.876] Generating initial solution...
+
+[09:08:34.876] Building BRKGA data...
+New population size: 160
+
+[09:08:34.97] Initializing BRKGA data...
+
+[09:08:35.1] Warming up...
+
+[09:08:36.031] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 10 | 0.03 
+[09:18:36.039] End of optimization
+
+Total number of iterations: 20668
+Last update iteration: 1
+Total optimization time: 600.01
+Last update time: 0.03
+Large number of iterations between improvements: 1
+Total path relink time: 43.02
+Total path relink calls: 103
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 10------------------------------------------------------
+> Experiment started at 2024-10-30T09:18:44.629
+> Instance: instances/jean.col
+> Configuration: config1.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.2
+>  - num_elite_parents 2
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 394149
+> Stop rule: TARGET
+> Stop argument: 0.0
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[09:18:44.75] Reading graph data...
+Number of vertices: 80
+
+[09:18:44.785] Generating initial solution...
+
+[09:18:44.785] Building BRKGA data...
+New population size: 160
+
+[09:18:44.88] Initializing BRKGA data...
+
+[09:18:45.017] Warming up...
+
+[09:18:45.949] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 10 | 0.03 
+[09:28:45.954] End of optimization
+
+Total number of iterations: 20663
+Last update iteration: 1
+Total optimization time: 600.00
+Last update time: 0.03
+Large number of iterations between improvements: 1
+Total path relink time: 44.71
+Total path relink calls: 103
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 10------------------------------------------------------
+> Experiment started at 2024-10-30T09:28:54.526
+> Instance: instances/jean.col
+> Configuration: config1.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.2
+>  - num_elite_parents 2
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 492929
+> Stop rule: TARGET
+> Stop argument: 0.0
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[09:28:54.653] Reading graph data...
+Number of vertices: 80
+
+[09:28:54.688] Generating initial solution...
+
+[09:28:54.688] Building BRKGA data...
+New population size: 160
+
+[09:28:54.781] Initializing BRKGA data...
+
+[09:28:54.91] Warming up...
+
+[09:28:55.818] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 10 | 0.03 
+[09:38:55.839] End of optimization
+
+Total number of iterations: 20550
+Last update iteration: 1
+Total optimization time: 600.02
+Last update time: 0.03
+Large number of iterations between improvements: 1
+Total path relink time: 43.82
+Total path relink calls: 102
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 10------------------------------------------------------
+> Experiment started at 2024-10-30T09:39:04.567
+> Instance: instances/jean.col
+> Configuration: config1.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.2
+>  - num_elite_parents 2
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 593929
+> Stop rule: TARGET
+> Stop argument: 0.0
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[09:39:04.688] Reading graph data...
+Number of vertices: 80
+
+[09:39:04.725] Generating initial solution...
+
+[09:39:04.725] Building BRKGA data...
+New population size: 160
+
+[09:39:04.82] Initializing BRKGA data...
+
+[09:39:04.954] Warming up...
+
+[09:39:05.837] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 10 | 0.03 
+[09:49:05.841] End of optimization
+
+Total number of iterations: 21530
+Last update iteration: 1
+Total optimization time: 600.00
+Last update time: 0.03
+Large number of iterations between improvements: 1
+Total path relink time: 41.15
+Total path relink calls: 107
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 10------------------------------------------------------
+> Experiment started at 2024-10-30T09:49:14.759
+> Instance: instances/jean.col
+> Configuration: config1.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.2
+>  - num_elite_parents 2
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 693929
+> Stop rule: TARGET
+> Stop argument: 0.0
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[09:49:14.875] Reading graph data...
+Number of vertices: 80
+
+[09:49:14.91] Generating initial solution...
+
+[09:49:14.91] Building BRKGA data...
+New population size: 160
+
+[09:49:15.01] Initializing BRKGA data...
+
+[09:49:15.143] Warming up...
+
+[09:49:16.054] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 10 | 0.03 
+[09:59:16.063] End of optimization
+
+Total number of iterations: 19517
+Last update iteration: 1
+Total optimization time: 600.01
+Last update time: 0.03
+Large number of iterations between improvements: 1
+Total path relink time: 43.70
+Total path relink calls: 97
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 10

@@ -1,0 +1,281 @@
+------------------------------------------------------
+> Experiment started at 2024-10-30T07:14:28.401
+> Instance: instances/huck.col
+> Configuration: config1.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.2
+>  - num_elite_parents 2
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 298329
+> Stop rule: TARGET
+> Stop argument: 0.0
+> Maximum time (s): 60.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[07:14:28.518] Reading graph data...
+Number of vertices: 74
+
+[07:14:28.553] Generating initial solution...
+
+[07:14:28.553] Building BRKGA data...
+New population size: 148
+
+[07:14:28.647] Initializing BRKGA data...
+
+[07:14:28.777] Warming up...
+
+[07:14:29.622] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 11 | 0.03 
+[07:15:29.623] End of optimization
+
+Total number of iterations: 2201
+Last update iteration: 1
+Total optimization time: 60.00
+Last update time: 0.03
+Large number of iterations between improvements: 1
+Total path relink time: 3.89
+Total path relink calls: 11
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 11------------------------------------------------------
+> Experiment started at 2024-10-30T07:15:38.306
+> Instance: instances/huck.col
+> Configuration: config1.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.2
+>  - num_elite_parents 2
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 394149
+> Stop rule: TARGET
+> Stop argument: 0.0
+> Maximum time (s): 60.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[07:15:38.424] Reading graph data...
+Number of vertices: 74
+
+[07:15:38.46] Generating initial solution...
+
+[07:15:38.46] Building BRKGA data...
+New population size: 148
+
+[07:15:38.554] Initializing BRKGA data...
+
+[07:15:38.676] Warming up...
+
+[07:15:39.513] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 11 | 0.02 
+[07:16:39.52] End of optimization
+
+Total number of iterations: 2302
+Last update iteration: 1
+Total optimization time: 60.01
+Last update time: 0.02
+Large number of iterations between improvements: 1
+Total path relink time: 3.79
+Total path relink calls: 11
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 11------------------------------------------------------
+> Experiment started at 2024-10-30T07:16:48.036
+> Instance: instances/huck.col
+> Configuration: config1.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.2
+>  - num_elite_parents 2
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 492929
+> Stop rule: TARGET
+> Stop argument: 0.0
+> Maximum time (s): 60.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[07:16:48.152] Reading graph data...
+Number of vertices: 74
+
+[07:16:48.187] Generating initial solution...
+
+[07:16:48.187] Building BRKGA data...
+New population size: 148
+
+[07:16:48.279] Initializing BRKGA data...
+
+[07:16:48.409] Warming up...
+
+[07:16:49.259] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 11 | 0.02 
+[07:17:49.272] End of optimization
+
+Total number of iterations: 2290
+Last update iteration: 1
+Total optimization time: 60.01
+Last update time: 0.02
+Large number of iterations between improvements: 1
+Total path relink time: 3.96
+Total path relink calls: 11
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 11------------------------------------------------------
+> Experiment started at 2024-10-30T07:17:57.879
+> Instance: instances/huck.col
+> Configuration: config1.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.2
+>  - num_elite_parents 2
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 593929
+> Stop rule: TARGET
+> Stop argument: 0.0
+> Maximum time (s): 60.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[07:17:57.998] Reading graph data...
+Number of vertices: 74
+
+[07:17:58.039] Generating initial solution...
+
+[07:17:58.039] Building BRKGA data...
+New population size: 148
+
+[07:17:58.132] Initializing BRKGA data...
+
+[07:17:58.263] Warming up...
+
+[07:17:59.1] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 11 | 0.02 
+[07:18:59.121] End of optimization
+
+Total number of iterations: 2236
+Last update iteration: 1
+Total optimization time: 60.02
+Last update time: 0.02
+Large number of iterations between improvements: 1
+Total path relink time: 4.01
+Total path relink calls: 11
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 11------------------------------------------------------
+> Experiment started at 2024-10-30T07:19:07.736
+> Instance: instances/huck.col
+> Configuration: config1.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.2
+>  - num_elite_parents 2
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 693929
+> Stop rule: TARGET
+> Stop argument: 0.0
+> Maximum time (s): 60.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[07:19:07.854] Reading graph data...
+Number of vertices: 74
+
+[07:19:07.889] Generating initial solution...
+
+[07:19:07.889] Building BRKGA data...
+New population size: 148
+
+[07:19:07.981] Initializing BRKGA data...
+
+[07:19:08.111] Warming up...
+
+[07:19:08.948] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 11 | 0.02 
+[07:20:08.959] End of optimization
+
+Total number of iterations: 2361
+Last update iteration: 1
+Total optimization time: 60.01
+Last update time: 0.02
+Large number of iterations between improvements: 1
+Total path relink time: 3.73
+Total path relink calls: 11
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 11
