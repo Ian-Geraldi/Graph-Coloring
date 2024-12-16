@@ -1,0 +1,294 @@
+------------------------------------------------------
+> Experiment started at 2024-11-01T11:54:36.754
+> Instance: instances/queen11_11.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 298329
+> Stop rule: IMPROVEMENT
+> Stop argument: 1000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[11:54:36.882] Reading graph data...
+Number of vertices: 121
+
+[11:54:36.922] Generating initial solution...
+
+[11:54:36.922] Building BRKGA data...
+New population size: 242
+
+[11:54:37.021] Initializing BRKGA data...
+
+[11:54:37.247] Warming up...
+
+[11:54:40.733] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 15 | 0.09 
+* 17 | 14 | 1.89 
+- Improvement on the elite set but not in the best individual | Elapsed time: 2.88
+- Improvement on the elite set but not in the best individual | Elapsed time: 2.93
+[11:56:30.031] End of optimization
+
+Total number of iterations: 1017
+Last update iteration: 17
+Total optimization time: 109.30
+Last update time: 1.89
+Large number of iterations between improvements: 16
+Total path relink time: 14.57
+Total path relink calls: 5
+Number of homogenities: 0
+Improvements in the elite set: 2
+Best individual improvements: 0
+
+% Best cost: 14------------------------------------------------------
+> Experiment started at 2024-11-01T11:56:39.158
+> Instance: instances/queen11_11.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 394149
+> Stop rule: IMPROVEMENT
+> Stop argument: 1000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[11:56:39.285] Reading graph data...
+Number of vertices: 121
+
+[11:56:39.324] Generating initial solution...
+
+[11:56:39.324] Building BRKGA data...
+New population size: 242
+
+[11:56:39.423] Initializing BRKGA data...
+
+[11:56:39.637] Warming up...
+
+[11:56:43.078] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 15 | 0.10 
+* 139 | 14 | 13.32 
+- Improvement on the elite set but not in the best individual | Elapsed time: 2.75
+[11:58:44.03] End of optimization
+
+Total number of iterations: 1139
+Last update iteration: 139
+Total optimization time: 120.95
+Last update time: 13.32
+Large number of iterations between improvements: 138
+Total path relink time: 14.09
+Total path relink calls: 5
+Number of homogenities: 0
+Improvements in the elite set: 1
+Best individual improvements: 0
+
+% Best cost: 14------------------------------------------------------
+> Experiment started at 2024-11-01T11:58:52.974
+> Instance: instances/queen11_11.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 492929
+> Stop rule: IMPROVEMENT
+> Stop argument: 1000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[11:58:53.097] Reading graph data...
+Number of vertices: 121
+
+[11:58:53.136] Generating initial solution...
+
+[11:58:53.136] Building BRKGA data...
+New population size: 242
+
+[11:58:53.233] Initializing BRKGA data...
+
+[11:58:53.442] Warming up...
+
+[11:58:56.812] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 15 | 0.09 
+* 23 | 14 | 2.44 
+- Improvement on the elite set but not in the best individual | Elapsed time: 2.94
+- Improvement on the elite set but not in the best individual | Elapsed time: 2.94
+[12:00:46.301] End of optimization
+
+Total number of iterations: 1023
+Last update iteration: 23
+Total optimization time: 109.49
+Last update time: 2.44
+Large number of iterations between improvements: 22
+Total path relink time: 14.56
+Total path relink calls: 5
+Number of homogenities: 0
+Improvements in the elite set: 2
+Best individual improvements: 0
+
+% Best cost: 14------------------------------------------------------
+> Experiment started at 2024-11-01T12:00:55.367
+> Instance: instances/queen11_11.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 593929
+> Stop rule: IMPROVEMENT
+> Stop argument: 1000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[12:00:55.491] Reading graph data...
+Number of vertices: 121
+
+[12:00:55.533] Generating initial solution...
+
+[12:00:55.533] Building BRKGA data...
+New population size: 242
+
+[12:00:55.636] Initializing BRKGA data...
+
+[12:00:55.847] Warming up...
+
+[12:00:59.31] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 15 | 0.09 
+* 20 | 14 | 2.19 
+- Improvement on the elite set but not in the best individual | Elapsed time: 2.91
+- Improvement on the elite set but not in the best individual | Elapsed time: 2.82
+[12:02:48.319] End of optimization
+
+Total number of iterations: 1020
+Last update iteration: 20
+Total optimization time: 109.01
+Last update time: 2.19
+Large number of iterations between improvements: 19
+Total path relink time: 14.34
+Total path relink calls: 5
+Number of homogenities: 0
+Improvements in the elite set: 2
+Best individual improvements: 0
+
+% Best cost: 14------------------------------------------------------
+> Experiment started at 2024-11-01T12:02:57.381
+> Instance: instances/queen11_11.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 693929
+> Stop rule: IMPROVEMENT
+> Stop argument: 1000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[12:02:57.506] Reading graph data...
+Number of vertices: 121
+
+[12:02:57.545] Generating initial solution...
+
+[12:02:57.545] Building BRKGA data...
+New population size: 242
+
+[12:02:57.644] Initializing BRKGA data...
+
+[12:02:57.857] Warming up...
+
+[12:03:01.384] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 15 | 0.09 
+* 65 | 14 | 6.37 
+- Improvement on the elite set but not in the best individual | Elapsed time: 2.82
+[12:04:54.119] End of optimization
+
+Total number of iterations: 1065
+Last update iteration: 65
+Total optimization time: 112.74
+Last update time: 6.37
+Large number of iterations between improvements: 64
+Total path relink time: 14.14
+Total path relink calls: 5
+Number of homogenities: 0
+Improvements in the elite set: 1
+Best individual improvements: 0
+
+% Best cost: 14

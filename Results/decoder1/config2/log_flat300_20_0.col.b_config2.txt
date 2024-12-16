@@ -1,0 +1,38 @@
+ERROR: LoadError: ArgumentError: File not found: instances/flat300_20_0.col.b
+Stacktrace:
+ [1] gcpInstance(filename::String)
+   @ Main ~/Documents/Trabalhos Mestrado/Graph Coloring/gcp_instance.jl:52
+ [2] main(args::Dict{String, Any})
+   @ Main ~/Documents/Trabalhos Mestrado/Graph Coloring/mainComplete.jl:153
+ [3] top-level scope
+   @ ~/Documents/Trabalhos Mestrado/Graph Coloring/mainComplete.jl:419
+in expression starting at /home/ian/Documents/Trabalhos Mestrado/Graph Coloring/mainComplete.jl:419
+------------------------------------------------------
+> Experiment started at 2024-11-01T17:44:52.786
+> Instance: instances/flat300_20_0.col.b
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 298329
+> Stop rule: IMPROVEMENT
+> Stop argument: 1000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[17:44:52.911] Reading graph data...

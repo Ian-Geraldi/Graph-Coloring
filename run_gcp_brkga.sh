@@ -1,17 +1,16 @@
 #!/bin/bash
 
 # List of instance files
-configs=("config1" "config2" "config4" "config5" "config6")
-instances=( #"myciel3.col"
-    #    "myciel4.col"
-    #    "queen5_5.col"
-    #    "queen6_6.col"
-    #    "myciel5.col"
-    #    "queen7_7.col"
-    #    "queen8_8.col"
-    #    "huck.col"
-    #    "jean.col"
-    #    "queen9_9.col"
+instances=( "myciel3.col"
+       "myciel4.col"
+       "queen5_5.col"
+       "queen6_6.col"
+       "myciel5.col"
+       "queen7_7.col"
+       "queen8_8.col"
+       "huck.col"
+       "jean.col"
+       "queen9_9.col"
        "david.col"
        "myciel6.col"
        "queen8_12.col"
@@ -33,9 +32,6 @@ instances=( #"myciel3.col"
        "zeroin.i.3.col"
        "zeroin.i.1.col"
        "zeroin.i.2.col"
-       "flat300_20_0.col.b"
-       "flat300_26_0.col.b"
-       "flat300_28_0.col.b"
        "fpsol2.i.3.col"
        "le450_15a.col"
        "le450_15b.col"
@@ -59,12 +55,12 @@ instances=( #"myciel3.col"
        "flat1000_60_0.col.b"
        "flat1000_76_0.col.b")
 
-
-times=("60" "300" "600")
+configs=("config2")
+times=("600")
 seeds=("298329" "394149" "492929" "593929" "693929")
 
 # Example command:
-# julia mainComplete.jl -c config1.conf -s 298329 -r T -a 0 -t 60 -i "instances/myciel3.col"
+# julia mainComplete.jl -c config1.conf -s 298329 -r I -a 1000 -t 600 -i "instances/myciel3.col"
 # Loop through each instance, time, config and seed
 for config in "${configs[@]}"; do
     for instance in "${instances[@]}"; do
@@ -72,7 +68,7 @@ for config in "${configs[@]}"; do
             for seed in "${seeds[@]}"; do
                 # Run the Julia script with the current instance, time, and seed
                 echo "Running for instance ${instance}, time ${time}, and seed ${seed}..."
-                julia mainComplete.jl -c "${config}.conf" -s ${seed} -r T -a 0 -t ${time} -i "instances/${instance}" >> "Results/log_${instance}_${time}seconds_${config}.txt" 2>&1
+                julia mainComplete.jl -c "${config}.conf" -s ${seed} -r I -a 2000 -t ${time} -i "instances/${instance}" >> "Results/log_${instance}_${config}.txt" 2>&1
                 
                 # Check if the Julia script ran successfully
                 if [ $? -ne 0 ]; then

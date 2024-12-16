@@ -1,0 +1,281 @@
+------------------------------------------------------
+> Experiment started at 2024-11-01T13:20:56.680
+> Instance: instances/anna.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 298329
+> Stop rule: IMPROVEMENT
+> Stop argument: 1000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[13:20:56.843] Reading graph data...
+Number of vertices: 138
+
+[13:20:56.883] Generating initial solution...
+
+[13:20:56.883] Building BRKGA data...
+New population size: 276
+
+[13:20:56.985] Initializing BRKGA data...
+
+[13:20:57.201] Warming up...
+
+[13:21:00.953] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 11 | 0.09 
+[13:22:38.678] End of optimization
+
+Total number of iterations: 1001
+Last update iteration: 1
+Total optimization time: 97.72
+Last update time: 0.09
+Large number of iterations between improvements: 1
+Total path relink time: 13.81
+Total path relink calls: 5
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 11------------------------------------------------------
+> Experiment started at 2024-11-01T13:22:48.109
+> Instance: instances/anna.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 394149
+> Stop rule: IMPROVEMENT
+> Stop argument: 1000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[13:22:48.24] Reading graph data...
+Number of vertices: 138
+
+[13:22:48.278] Generating initial solution...
+
+[13:22:48.278] Building BRKGA data...
+New population size: 276
+
+[13:22:48.381] Initializing BRKGA data...
+
+[13:22:48.577] Warming up...
+
+[13:22:51.82] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 11 | 0.08 
+[13:24:24.995] End of optimization
+
+Total number of iterations: 1001
+Last update iteration: 1
+Total optimization time: 93.18
+Last update time: 0.08
+Large number of iterations between improvements: 1
+Total path relink time: 13.10
+Total path relink calls: 5
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 11------------------------------------------------------
+> Experiment started at 2024-11-01T13:24:34.774
+> Instance: instances/anna.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 492929
+> Stop rule: IMPROVEMENT
+> Stop argument: 1000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[13:24:34.905] Reading graph data...
+Number of vertices: 138
+
+[13:24:34.945] Generating initial solution...
+
+[13:24:34.945] Building BRKGA data...
+New population size: 276
+
+[13:24:35.049] Initializing BRKGA data...
+
+[13:24:35.244] Warming up...
+
+[13:24:38.528] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 11 | 0.09 
+[13:26:12.242] End of optimization
+
+Total number of iterations: 1001
+Last update iteration: 1
+Total optimization time: 93.71
+Last update time: 0.09
+Large number of iterations between improvements: 1
+Total path relink time: 12.93
+Total path relink calls: 5
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 11------------------------------------------------------
+> Experiment started at 2024-11-01T13:26:21.934
+> Instance: instances/anna.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 593929
+> Stop rule: IMPROVEMENT
+> Stop argument: 1000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[13:26:22.061] Reading graph data...
+Number of vertices: 138
+
+[13:26:22.098] Generating initial solution...
+
+[13:26:22.098] Building BRKGA data...
+New population size: 276
+
+[13:26:22.198] Initializing BRKGA data...
+
+[13:26:22.391] Warming up...
+
+[13:26:25.769] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 11 | 0.08 
+[13:27:58.82] End of optimization
+
+Total number of iterations: 1001
+Last update iteration: 1
+Total optimization time: 93.05
+Last update time: 0.08
+Large number of iterations between improvements: 1
+Total path relink time: 12.81
+Total path relink calls: 5
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 11------------------------------------------------------
+> Experiment started at 2024-11-01T13:28:08.162
+> Instance: instances/anna.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 693929
+> Stop rule: IMPROVEMENT
+> Stop argument: 1000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[13:28:08.292] Reading graph data...
+Number of vertices: 138
+
+[13:28:08.335] Generating initial solution...
+
+[13:28:08.335] Building BRKGA data...
+New population size: 276
+
+[13:28:08.446] Initializing BRKGA data...
+
+[13:28:08.651] Warming up...
+
+[13:28:11.979] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 11 | 0.08 
+[13:29:47.195] End of optimization
+
+Total number of iterations: 1001
+Last update iteration: 1
+Total optimization time: 95.22
+Last update time: 0.08
+Large number of iterations between improvements: 1
+Total path relink time: 12.77
+Total path relink calls: 5
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 11

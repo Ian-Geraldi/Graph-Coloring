@@ -1,0 +1,281 @@
+------------------------------------------------------
+> Experiment started at 2024-11-14T11:17:40.330
+> Instance: instances/mulsol.i.1.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 298329
+> Stop rule: IMPROVEMENT
+> Stop argument: 2000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[11:17:40.503] Reading graph data...
+Number of vertices: 197
+
+[11:17:40.547] Generating initial solution...
+
+[11:17:40.547] Building BRKGA data...
+New population size: 394
+
+[11:17:40.811] Initializing BRKGA data...
+
+[11:17:41.559] Warming up...
+
+[11:17:52.841] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 49 | 0.55 
+[11:27:52.912] End of optimization
+
+Total number of iterations: 949
+Last update iteration: 1
+Total optimization time: 600.07
+Last update time: 0.55
+Large number of iterations between improvements: 1
+Total path relink time: 90.59
+Total path relink calls: 4
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 49------------------------------------------------------
+> Experiment started at 2024-11-14T11:28:02.870
+> Instance: instances/mulsol.i.1.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 394149
+> Stop rule: IMPROVEMENT
+> Stop argument: 2000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[11:28:03.04] Reading graph data...
+Number of vertices: 197
+
+[11:28:03.082] Generating initial solution...
+
+[11:28:03.082] Building BRKGA data...
+New population size: 394
+
+[11:28:03.357] Initializing BRKGA data...
+
+[11:28:04.081] Warming up...
+
+[11:28:15.373] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 49 | 0.56 
+[11:38:15.777] End of optimization
+
+Total number of iterations: 959
+Last update iteration: 1
+Total optimization time: 600.40
+Last update time: 0.56
+Large number of iterations between improvements: 1
+Total path relink time: 91.59
+Total path relink calls: 4
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 49------------------------------------------------------
+> Experiment started at 2024-11-14T11:38:24.540
+> Instance: instances/mulsol.i.1.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 492929
+> Stop rule: IMPROVEMENT
+> Stop argument: 2000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[11:38:24.691] Reading graph data...
+Number of vertices: 197
+
+[11:38:24.73] Generating initial solution...
+
+[11:38:24.73] Building BRKGA data...
+New population size: 394
+
+[11:38:24.973] Initializing BRKGA data...
+
+[11:38:25.64] Warming up...
+
+[11:38:36.82] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 49 | 0.50 
+[11:48:36.821] End of optimization
+
+Total number of iterations: 1001
+Last update iteration: 1
+Total optimization time: 600.00
+Last update time: 0.50
+Large number of iterations between improvements: 1
+Total path relink time: 89.79
+Total path relink calls: 5
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 49------------------------------------------------------
+> Experiment started at 2024-11-14T11:48:45.548
+> Instance: instances/mulsol.i.1.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 593929
+> Stop rule: IMPROVEMENT
+> Stop argument: 2000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[11:48:45.665] Reading graph data...
+Number of vertices: 197
+
+[11:48:45.702] Generating initial solution...
+
+[11:48:45.702] Building BRKGA data...
+New population size: 394
+
+[11:48:45.945] Initializing BRKGA data...
+
+[11:48:46.582] Warming up...
+
+[11:48:57.705] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 49 | 0.48 
+[11:58:58.007] End of optimization
+
+Total number of iterations: 1020
+Last update iteration: 1
+Total optimization time: 600.30
+Last update time: 0.48
+Large number of iterations between improvements: 1
+Total path relink time: 104.58
+Total path relink calls: 5
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 49------------------------------------------------------
+> Experiment started at 2024-11-14T11:59:07.493
+> Instance: instances/mulsol.i.1.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 693929
+> Stop rule: IMPROVEMENT
+> Stop argument: 2000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[11:59:07.629] Reading graph data...
+Number of vertices: 197
+
+[11:59:07.67] Generating initial solution...
+
+[11:59:07.67] Building BRKGA data...
+New population size: 394
+
+[11:59:07.937] Initializing BRKGA data...
+
+[11:59:08.737] Warming up...
+
+[11:59:20.034] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 49 | 0.55 
+[12:09:20.625] End of optimization
+
+Total number of iterations: 851
+Last update iteration: 1
+Total optimization time: 600.59
+Last update time: 0.55
+Large number of iterations between improvements: 1
+Total path relink time: 104.23
+Total path relink calls: 4
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 49

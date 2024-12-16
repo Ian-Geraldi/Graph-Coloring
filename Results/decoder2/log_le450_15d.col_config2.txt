@@ -1,0 +1,172 @@
+------------------------------------------------------
+> Experiment started at 2024-11-14T18:14:59.794
+> Instance: instances/le450_15d.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 298329
+> Stop rule: IMPROVEMENT
+> Stop argument: 2000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[18:14:59.915] Reading graph data...
+Number of vertices: 450
+
+[18:14:59.965] Generating initial solution...
+
+[18:14:59.965] Building BRKGA data...
+New population size: 900
+
+[18:15:00.218] Initializing BRKGA data...
+
+[18:15:05.406] Warming up...
+
+[18:15:24.757] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 28 | 4.48 
+* 33 | 27 | 148.39 
+[18:25:26.836] End of optimization
+
+Total number of iterations: 135
+Last update iteration: 33
+Total optimization time: 602.08
+Last update time: 148.39
+Large number of iterations between improvements: 32
+Total path relink time: 0.00
+Total path relink calls: 0
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 27------------------------------------------------------
+> Experiment started at 2024-11-14T18:25:35.525
+> Instance: instances/le450_15d.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 394149
+> Stop rule: IMPROVEMENT
+> Stop argument: 2000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[18:25:35.652] Reading graph data...
+Number of vertices: 450
+
+[18:25:35.71] Generating initial solution...
+
+[18:25:35.71] Building BRKGA data...
+New population size: 900
+
+[18:25:35.942] Initializing BRKGA data...
+
+[18:25:40.924] Warming up...
+
+[18:25:59.931] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 28 | 4.29 
+* 120 | 27 | 512.62 
+[18:36:01.686] End of optimization
+
+Total number of iterations: 141
+Last update iteration: 120
+Total optimization time: 601.76
+Last update time: 512.62
+Large number of iterations between improvements: 119
+Total path relink time: 0.00
+Total path relink calls: 0
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 27------------------------------------------------------
+> Experiment started at 2024-11-14T18:36:10.549
+> Instance: instances/le450_15d.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 492929
+> Stop rule: IMPROVEMENT
+> Stop argument: 2000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[18:36:10.674] Reading graph data...
+Number of vertices: 450
+
+[18:36:10.737] Generating initial solution...
+
+[18:36:10.737] Building BRKGA data...
+New population size: 900
+
+[18:36:10.97] Initializing BRKGA data...
+
+[18:36:16.155] Warming up...
+
+[18:36:35.723] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 28 | 4.54 
+* 12 | 27 | 55.03 
+[18:46:37.723] End of optimization
+
+Total number of iterations: 133
+Last update iteration: 12
+Total optimization time: 602.00
+Last update time: 55.03
+Large number of iterations between improvements: 11
+Total path relink time: 0.00
+Total path relink calls: 0
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 27

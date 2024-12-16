@@ -1,0 +1,281 @@
+------------------------------------------------------
+> Experiment started at 2024-11-14T14:45:05.353
+> Instance: instances/fpsol2.i.3.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 298329
+> Stop rule: IMPROVEMENT
+> Stop argument: 2000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[14:45:05.486] Reading graph data...
+Number of vertices: 425
+
+[14:45:05.532] Generating initial solution...
+
+[14:45:05.532] Building BRKGA data...
+New population size: 850
+
+[14:45:05.799] Initializing BRKGA data...
+
+[14:45:08.573] Warming up...
+
+[14:45:23.929] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 30 | 2.49 
+[14:55:23.931] End of optimization
+
+Total number of iterations: 201
+Last update iteration: 1
+Total optimization time: 600.00
+Last update time: 2.49
+Large number of iterations between improvements: 1
+Total path relink time: 115.94
+Total path relink calls: 1
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 30------------------------------------------------------
+> Experiment started at 2024-11-14T14:55:33.965
+> Instance: instances/fpsol2.i.3.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 394149
+> Stop rule: IMPROVEMENT
+> Stop argument: 2000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[14:55:34.093] Reading graph data...
+Number of vertices: 425
+
+[14:55:34.136] Generating initial solution...
+
+[14:55:34.136] Building BRKGA data...
+New population size: 850
+
+[14:55:34.392] Initializing BRKGA data...
+
+[14:55:37.202] Warming up...
+
+[14:55:52.467] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 30 | 2.34 
+[15:05:52.469] End of optimization
+
+Total number of iterations: 201
+Last update iteration: 1
+Total optimization time: 600.00
+Last update time: 2.34
+Large number of iterations between improvements: 1
+Total path relink time: 143.76
+Total path relink calls: 1
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 30------------------------------------------------------
+> Experiment started at 2024-11-14T15:06:01.863
+> Instance: instances/fpsol2.i.3.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 492929
+> Stop rule: IMPROVEMENT
+> Stop argument: 2000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[15:06:01.992] Reading graph data...
+Number of vertices: 425
+
+[15:06:02.049] Generating initial solution...
+
+[15:06:02.049] Building BRKGA data...
+New population size: 850
+
+[15:06:02.295] Initializing BRKGA data...
+
+[15:06:05.044] Warming up...
+
+[15:06:20.194] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 30 | 2.41 
+[15:16:20.196] End of optimization
+
+Total number of iterations: 201
+Last update iteration: 1
+Total optimization time: 600.00
+Last update time: 2.41
+Large number of iterations between improvements: 1
+Total path relink time: 133.12
+Total path relink calls: 1
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 30------------------------------------------------------
+> Experiment started at 2024-11-14T15:16:29.514
+> Instance: instances/fpsol2.i.3.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 593929
+> Stop rule: IMPROVEMENT
+> Stop argument: 2000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[15:16:29.643] Reading graph data...
+Number of vertices: 425
+
+[15:16:29.688] Generating initial solution...
+
+[15:16:29.688] Building BRKGA data...
+New population size: 850
+
+[15:16:29.944] Initializing BRKGA data...
+
+[15:16:32.598] Warming up...
+
+[15:16:47.621] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 30 | 2.32 
+[15:26:47.623] End of optimization
+
+Total number of iterations: 201
+Last update iteration: 1
+Total optimization time: 600.00
+Last update time: 2.32
+Large number of iterations between improvements: 1
+Total path relink time: 140.71
+Total path relink calls: 1
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 30------------------------------------------------------
+> Experiment started at 2024-11-14T15:26:56.469
+> Instance: instances/fpsol2.i.3.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 693929
+> Stop rule: IMPROVEMENT
+> Stop argument: 2000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[15:26:56.592] Reading graph data...
+Number of vertices: 425
+
+[15:26:56.637] Generating initial solution...
+
+[15:26:56.637] Building BRKGA data...
+New population size: 850
+
+[15:26:56.882] Initializing BRKGA data...
+
+[15:26:59.533] Warming up...
+
+[15:27:14.525] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 30 | 2.29 
+[15:37:14.527] End of optimization
+
+Total number of iterations: 201
+Last update iteration: 1
+Total optimization time: 600.00
+Last update time: 2.29
+Large number of iterations between improvements: 1
+Total path relink time: 148.24
+Total path relink calls: 1
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 30

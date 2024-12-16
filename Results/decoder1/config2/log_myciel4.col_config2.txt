@@ -1,0 +1,281 @@
+------------------------------------------------------
+> Experiment started at 2024-11-01T11:05:38.442
+> Instance: instances/myciel4.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 298329
+> Stop rule: IMPROVEMENT
+> Stop argument: 1000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[11:05:38.581] Reading graph data...
+Number of vertices: 23
+
+[11:05:38.621] Generating initial solution...
+
+[11:05:38.621] Building BRKGA data...
+New population size: 46
+
+[11:05:38.729] Initializing BRKGA data...
+
+[11:05:38.842] Warming up...
+
+[11:05:39.333] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 5 | 0.00 
+[11:05:41.98] End of optimization
+
+Total number of iterations: 1001
+Last update iteration: 1
+Total optimization time: 2.65
+Last update time: 0.00
+Large number of iterations between improvements: 1
+Total path relink time: 0.06
+Total path relink calls: 5
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 5------------------------------------------------------
+> Experiment started at 2024-11-01T11:05:51.459
+> Instance: instances/myciel4.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 394149
+> Stop rule: IMPROVEMENT
+> Stop argument: 1000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[11:05:51.594] Reading graph data...
+Number of vertices: 23
+
+[11:05:51.633] Generating initial solution...
+
+[11:05:51.633] Building BRKGA data...
+New population size: 46
+
+[11:05:51.736] Initializing BRKGA data...
+
+[11:05:51.85] Warming up...
+
+[11:05:52.337] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 5 | 0.00 
+[11:05:55.063] End of optimization
+
+Total number of iterations: 1001
+Last update iteration: 1
+Total optimization time: 2.73
+Last update time: 0.00
+Large number of iterations between improvements: 1
+Total path relink time: 0.05
+Total path relink calls: 5
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 5------------------------------------------------------
+> Experiment started at 2024-11-01T11:06:04.541
+> Instance: instances/myciel4.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 492929
+> Stop rule: IMPROVEMENT
+> Stop argument: 1000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[11:06:04.671] Reading graph data...
+Number of vertices: 23
+
+[11:06:04.708] Generating initial solution...
+
+[11:06:04.708] Building BRKGA data...
+New population size: 46
+
+[11:06:04.813] Initializing BRKGA data...
+
+[11:06:04.921] Warming up...
+
+[11:06:05.417] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 5 | 0.00 
+[11:06:08.142] End of optimization
+
+Total number of iterations: 1001
+Last update iteration: 1
+Total optimization time: 2.72
+Last update time: 0.00
+Large number of iterations between improvements: 1
+Total path relink time: 0.05
+Total path relink calls: 5
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 5------------------------------------------------------
+> Experiment started at 2024-11-01T11:06:17.632
+> Instance: instances/myciel4.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 593929
+> Stop rule: IMPROVEMENT
+> Stop argument: 1000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[11:06:17.761] Reading graph data...
+Number of vertices: 23
+
+[11:06:17.8] Generating initial solution...
+
+[11:06:17.8] Building BRKGA data...
+New population size: 46
+
+[11:06:17.903] Initializing BRKGA data...
+
+[11:06:18.014] Warming up...
+
+[11:06:18.517] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 5 | 0.00 
+[11:06:21.2] End of optimization
+
+Total number of iterations: 1001
+Last update iteration: 1
+Total optimization time: 2.68
+Last update time: 0.00
+Large number of iterations between improvements: 1
+Total path relink time: 0.06
+Total path relink calls: 5
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 5------------------------------------------------------
+> Experiment started at 2024-11-01T11:06:30.675
+> Instance: instances/myciel4.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 693929
+> Stop rule: IMPROVEMENT
+> Stop argument: 1000
+> Maximum time (s): 600.0
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[11:06:30.804] Reading graph data...
+Number of vertices: 23
+
+[11:06:30.844] Generating initial solution...
+
+[11:06:30.844] Building BRKGA data...
+New population size: 46
+
+[11:06:30.95] Initializing BRKGA data...
+
+[11:06:31.064] Warming up...
+
+[11:06:31.556] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 5 | 0.00 
+[11:06:34.203] End of optimization
+
+Total number of iterations: 1001
+Last update iteration: 1
+Total optimization time: 2.65
+Last update time: 0.00
+Large number of iterations between improvements: 1
+Total path relink time: 0.06
+Total path relink calls: 5
+Number of homogenities: 0
+Improvements in the elite set: 0
+Best individual improvements: 0
+
+% Best cost: 5

@@ -1,0 +1,58 @@
+julia mainComplete.jl -c config2.conf -s 298329 -r T -a 12 -t 999999999999 -i "instances/queen8_12.col"
+------------------------------------------------------
+> Experiment started at 2024-11-22T15:50:26.991
+> Instance: instances/queen8_12.col
+> Configuration: config2.conf
+> Algorithm Parameters:
+>  - population_size 200
+>  - elite_percentage 0.15
+>  - mutants_percentage 0.3
+>  - num_elite_parents 1
+>  - total_parents 3
+>  - bias_type LOGINVERSE
+>  - num_independent_populations 3
+>  - pr_number_pairs 0
+>  - pr_minimum_distance 0.15
+>  - pr_type PERMUTATION
+>  - pr_selection BESTSOLUTION
+>  - alpha_block_size 1.0
+>  - pr_percentage 1.0
+>  - exchange_interval 200
+>  - num_exchange_indivuduals 2
+>  - reset_interval 600
+> Seed: 298329
+> Stop rule: TARGET
+> Stop argument: 12.0
+> Maximum time (s): 9.99999999999e11
+> Number of parallel threads for decoding: 1
+------------------------------------------------------
+
+[15:50:27.132] Reading graph data...
+Number of vertices: 96
+
+[15:50:27.175] Generating initial solution...
+
+[15:50:27.175] Building BRKGA data...
+New population size: 192
+
+[15:50:27.282] Initializing BRKGA data...
+
+[15:50:27.464] Warming up...
+
+[15:50:29.496] Evolving...
+* Iteration | Cost | CurrentTime
+* 1 | 13 | 0.06 
+- Improvement on the elite set but not in the best individual | Elapsed time: 1.48
+* 105327 | 12 | 6644.79 
+[17:41:14.283] End of optimization
+
+Total number of iterations: 105327
+Last update iteration: 105327
+Total optimization time: 6644.79
+Last update time: 6644.79
+Large number of iterations between improvements: 105326
+Total path relink time: 719.82
+Total path relink calls: 526
+Number of homogenities: 0
+Improvements in the elite set: 1
+Best individual improvements: 0
